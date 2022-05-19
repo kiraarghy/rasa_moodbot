@@ -46,6 +46,7 @@ nlu:
     - no way
     - not really
     - nein
+    - am I talking to a human?
 - intent: mood_great
   examples: |
     - perfect
@@ -83,4 +84,3 @@ nlu:
     - are you a bot?
     - are you a human?
     - am I talking to a bot?
-    - am I talking to a human?
