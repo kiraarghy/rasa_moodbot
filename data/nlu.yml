@@ -27,6 +27,7 @@ nlu:
     - see you around
     - bye bye
     - see you later
+    - am I talking to a bot?
 - intent: affirm
   examples: |
     - yes
@@ -36,6 +37,7 @@ nlu:
     - that sounds good
     - correct
     - ja
+    - are you a bot?
 - intent: deny
   examples: |
     - no
@@ -80,7 +82,5 @@ nlu:
     - so sad
 - intent: bot_challenge
   examples: |
-    - are you a bot?
     - are you a human?
-    - am I talking to a bot?
     - am I talking to a human?
