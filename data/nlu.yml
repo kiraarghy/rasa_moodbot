@@ -84,3 +84,6 @@ nlu:
     - are you a human?
     - am I talking to a bot?
     - am I talking to a human?
+- intent: why_rasa
+  examples: |
+    - But what about Rasa Enterprise?
