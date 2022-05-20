@@ -84,3 +84,6 @@ nlu:
     - are you a human?
     - am I talking to a bot?
     - am I talking to a human?
+- intent: install_rasa
+  examples: |
+    - i want to install rasa 1.10.4 version
